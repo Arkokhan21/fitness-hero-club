@@ -28,7 +28,7 @@ const Home = () => {
                 }
             </div>
             <div className='details-container'>
-                <Details details={details}></Details>
+                {/* <Details details={details}></Details> */}
             </div>
         </div>
     );

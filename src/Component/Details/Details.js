@@ -45,8 +45,8 @@ const Details = (props) => {
                     <button onClick={() => func(breakTime[0])}>10s</button>
                     <button onClick={() => func(breakTime[1])}>20s</button>
                     <button onClick={() => func(breakTime[2])}>30s</button>
-                    {/* <button onClick={() => func(breakTime[3])}>40s</button>
-                    <button onClick={() => func(breakTime[4])}>50s</button> */}
+                    <button onClick={() => func(breakTime[3])}>40s</button>
+                    <button onClick={() => func(breakTime[4])}>50s</button>
                 </div>
             </div>
 
