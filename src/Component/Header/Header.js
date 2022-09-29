@@ -11,7 +11,7 @@ const Header = () => {
                 <h1>FITNESS HERO CLUB</h1>
             </div>
             <div className='header2'>
-                <h3>SELECT TODAY’S EXERCISE</h3>
+
             </div>
         </div>
     );
