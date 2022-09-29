@@ -18,7 +18,7 @@
     font-size: 17px;
 }
 
-/* .btn-cart {
+.btn-cart {
     width: 100%;
     background-color: rgb(206, 105, 105);
     border: none;
@@ -28,4 +28,4 @@
 
 .btn-cart:hover {
     background-color: rgb(190, 85, 90);
-} */
+}

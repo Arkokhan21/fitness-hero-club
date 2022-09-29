@@ -16,10 +16,10 @@ const Questions = () => {
                         State: The Data is passed within the component only. It is Mutable ( can be modified). State is both read and write.
                     </p>
                 </div>
-                <div>
+                {/* <div>
                     <h3>3. What is the use of useEffect ?</h3>
                     <p>The useEffect Hook allows you to perform side effects in your components. Some examples of side effects are: fetching data, directly updating the DOM, and timers. useEffect accepts two arguments. The second argument is optional.</p>
-                </div>
+                </div> */}
             </div>
         </div>
     );
