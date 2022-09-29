@@ -27,7 +27,7 @@ const Details = (props) => {
         localStorage.setItem('breakTime', value)
     }
 
-    const notify = () => toast("Activity Completed!");
+    const notify = () => toast("Activity Completedd!");
 
     return (
         <div className='top-container'>
