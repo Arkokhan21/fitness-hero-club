@@ -1,0 +1,11 @@
+.title {
+    text-align: center;
+    background-color: tan;
+    padding: 5px;
+    margin-top: 50px;
+}
+
+.questions-container {
+    background-color: tan;
+    padding: 20px;
+}

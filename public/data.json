@@ -1,0 +1,38 @@
+[
+    {
+        "picture": "https://images.unsplash.com/photo-1554344728-77cf90d9ed26?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Z3ltJTIwYm95fGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "time": 20,
+        "name": "Biceps curl",
+        "id": 1
+    },
+    {
+        "picture": "https://images.unsplash.com/photo-1588528402605-1f9d0eb7a6d6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Z3ltJTIwYm95fGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "time": 30,
+        "name": "Deadlift",
+        "id": 2
+    },
+    {
+        "picture": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Z3ltJTIwYm95fGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "time": 20,
+        "name": "Weight training",
+        "id": 3
+    },
+    {
+        "picture": "https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Z3ltJTIwYm95fGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "time": 30,
+        "name": "Pull-up",
+        "id": 4
+    },
+    {
+        "picture": "https://images.unsplash.com/photo-1517343985841-f8b2d66e010b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGd5bSUyMGJveXxlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60",
+        "time": 30,
+        "name": "Shoulder press",
+        "id": 5
+    },
+    {
+        "picture": "https://images.unsplash.com/photo-1519311965067-36d3e5f33d39?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGd5bSUyMGJveXxlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60",
+        "time": 20,
+        "name": "Bench press",
+        "id": 6
+    }
+]

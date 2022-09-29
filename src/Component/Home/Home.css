@@ -1,0 +1,29 @@
+.home-container {
+    display: grid;
+    grid-template-columns: 5fr 1fr;
+}
+
+.exerciseCard-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+    margin: 0px 40px 40px 40px;
+}
+
+.details-container {
+    background-color: rgb(206, 105, 105);
+    border-radius: 8px;
+    padding: 10px;
+}
+
+@media only screen and (max-width: 768px) {
+    .exerciseCard-container {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .home-container {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+}
