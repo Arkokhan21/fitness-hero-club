@@ -15,7 +15,12 @@ const Details = (props) => {
     const breakTime = ['10s', '20s', '30s', '40s', '50s']
     const [value, setValue] = useState('0s')
 
-
+    useEffect(() => {
+        const items = localStorage.getItem('breakTime')
+        if (items) {
+            setValue(items);
+        }
+    }, [])
 
     const func = (value) => {
         setValue(value)
